@@ -1,4 +1,4 @@
-# MultiSpeech
+# MultiSpeech Binding
 合成音声ソフトをpythonバインディングするためのサンプルpyファイル。
 
 # 対応ソフト
