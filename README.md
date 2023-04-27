@@ -1,0 +1,2 @@
+# MultiSpeech
+合成音声ソフトをpythonバインディングするためのpyファイル
